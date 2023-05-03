@@ -1,0 +1,12 @@
+#divRow {
+
+    display: flex;
+    align-items: center;
+    height: 100vh;
+
+    #tableData {
+        max-height: 50vh;
+        overflow: auto;
+    }
+
+}
